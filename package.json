@@ -18,7 +18,10 @@
     "node": "~0.10.0"
   },
   "scripts": {
+<<<<<<< HEAD
     // "start": "node server.js"
+=======
+>>>>>>> init
     "start": "node index.js"
   }
 }
